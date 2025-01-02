@@ -2,6 +2,10 @@
 
 This project explores and analyzes the IPL Matches Dataset (2008-2024) to uncover key insights, trends, and statistics about the Indian Premier League (IPL). The analysis is performed using Python and Jupyter Notebook.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bd43160e-bf1f-493e-83cc-a5701e6c51f8" alt="IPL Analysis Image" width="400"/>
+</div>
+
 ## Table of Contents
 - [Dataset Overview](#dataset-overview)
 - [Steps for Analysis](#steps-for-analysis)
@@ -85,13 +89,13 @@ match_count.plot(kind='bar', figsize=(10, 5))
 ## Visualization Examples
 
 ### Total Matches Played by Season
-![Bar Chart](examples/matches_per_season.png)
+![Total_Matches_Played](https://github.com/user-attachments/assets/a78f6dfe-b613-453a-8985-831cabd721f6)
 
 ### Most Match-Winning Teams (After Data Cleaning)
-![Horizontal Bar Chart](examples/team_wins.png)
+![No_of_matches_Win_by_each_team_after](https://github.com/user-attachments/assets/4eec0235-f5d6-4fbd-9276-3a5c3d97e475)
 
 ### Match Type and Team Wins (Heatmap)
-![Heatmap](examples/match_type_analysis.png)
+![Win_by_match_type_and_team](https://github.com/user-attachments/assets/9a6a3968-446c-4aec-9a2d-b9dfe0ded10b)
 
 ## Usage
 
@@ -111,6 +115,3 @@ match_count.plot(kind='bar', figsize=(10, 5))
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this analysis.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
