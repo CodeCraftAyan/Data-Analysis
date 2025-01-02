@@ -6,7 +6,7 @@ This repository contains a collection of data analysis projects aimed at explori
 
 ## Projects Overview
 
-### 1. [IPL Matches Analysis (2008-2024)](https://github.com/CodeCraftAyan/Data-Analysis/tree/main/IPL-Match-Analysis)
+### 1. [IPL Matches Analysis (2008-2024)](https://github.com/CodeCraftAyan/Data-Analysis/tree/master/IPL-Match-Analysis)
 An in-depth analysis of IPL matches spanning from 2008 to 2024. This project uncovers key insights, trends, and statistics about the Indian Premier League (IPL).  
 **Key Features:**
 - Total matches played per season.
